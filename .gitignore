@@ -1,0 +1,10 @@
+#folders
+bin/
+obj/
+
+
+#files
+palabras-reservadas.layout
+*.exe
+*.o
+
