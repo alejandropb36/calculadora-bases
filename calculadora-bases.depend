@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549946656 source:d:\alejandro\projects\calculadora-bases\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+
